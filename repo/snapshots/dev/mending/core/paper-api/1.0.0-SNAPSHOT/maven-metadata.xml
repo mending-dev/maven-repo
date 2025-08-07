@@ -3,26 +3,26 @@
   <groupId>dev.mending.core</groupId>
   <artifactId>paper-api</artifactId>
   <versioning>
-    <lastUpdated>20250807015840</lastUpdated>
+    <lastUpdated>20250807020040</lastUpdated>
     <snapshot>
-      <timestamp>20250807.015840</timestamp>
+      <timestamp>20250807.020040</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20250807.020040-1</value>
+        <updated>20250807020040</updated>
+      </snapshotVersion>
+      <snapshotVersion>
         <extension>module</extension>
-        <value>1.0.0-20250807.015840-1</value>
-        <updated>20250807015840</updated>
+        <value>1.0.0-20250807.020040-1</value>
+        <updated>20250807020040</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20250807.015840-1</value>
-        <updated>20250807015840</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>1.0.0-20250807.015840-1</value>
-        <updated>20250807015840</updated>
+        <value>1.0.0-20250807.020040-1</value>
+        <updated>20250807020040</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

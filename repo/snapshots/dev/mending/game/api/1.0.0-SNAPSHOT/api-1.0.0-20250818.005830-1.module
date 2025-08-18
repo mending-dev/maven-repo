@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.mending.game",
+    "module": "api",
+    "version": "1.0.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.10"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "api-1.0.0-SNAPSHOT.jar",
+          "url": "api-1.0.0-SNAPSHOT.jar",
+          "size": 27878,
+          "sha512": "ffd97c6ed7ea994cb557f04b4546c3f083f6fde8e41c9b7602090d3a97786e9e21682357b01b1379ccb440e503cfd09cb7cedcf6aba2d79d89eed59cd9141494",
+          "sha256": "49903726eac2a3628d8cce59839eb94d769d955aafe293e5322c8db5bda90b29",
+          "sha1": "f1f127245d07d18d1879b4b6f5909011814adfe5",
+          "md5": "09c8afd878aff4096e25ce13ec9326d9"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "api-1.0.0-SNAPSHOT.jar",
+          "url": "api-1.0.0-SNAPSHOT.jar",
+          "size": 27878,
+          "sha512": "ffd97c6ed7ea994cb557f04b4546c3f083f6fde8e41c9b7602090d3a97786e9e21682357b01b1379ccb440e503cfd09cb7cedcf6aba2d79d89eed59cd9141494",
+          "sha256": "49903726eac2a3628d8cce59839eb94d769d955aafe293e5322c8db5bda90b29",
+          "sha1": "f1f127245d07d18d1879b4b6f5909011814adfe5",
+          "md5": "09c8afd878aff4096e25ce13ec9326d9"
+        }
+      ]
+    }
+  ]
+}

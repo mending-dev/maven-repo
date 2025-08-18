@@ -3,26 +3,26 @@
   <groupId>dev.mending.game</groupId>
   <artifactId>api</artifactId>
   <versioning>
-    <lastUpdated>20250818005830</lastUpdated>
+    <lastUpdated>20250818010839</lastUpdated>
     <snapshot>
-      <timestamp>20250818.005830</timestamp>
+      <timestamp>20250818.010839</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>jar</extension>
-        <value>1.0.0-20250818.005830-1</value>
-        <updated>20250818005830</updated>
-      </snapshotVersion>
-      <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20250818.005830-1</value>
-        <updated>20250818005830</updated>
+        <value>1.0.0-20250818.010839-1</value>
+        <updated>20250818010839</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>module</extension>
-        <value>1.0.0-20250818.005830-1</value>
-        <updated>20250818005830</updated>
+        <value>1.0.0-20250818.010839-1</value>
+        <updated>20250818010839</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20250818.010839-1</value>
+        <updated>20250818010839</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

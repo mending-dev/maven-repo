@@ -3,38 +3,38 @@
   <groupId>dev.mending.core</groupId>
   <artifactId>paper-api</artifactId>
   <versioning>
-    <lastUpdated>20261101054359</lastUpdated>
+    <lastUpdated>20261101060218</lastUpdated>
     <snapshot>
-      <timestamp>20261101.054359</timestamp>
+      <timestamp>20261101.060218</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>2.0.0-20261101.054359-1</value>
-        <updated>20261101054359</updated>
+        <value>2.0.0-20261101.060218-1</value>
+        <updated>20261101060218</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.0.0-20261101.060218-1</value>
+        <updated>20261101060218</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>2.0.0-20261101.054359-1</value>
-        <updated>20261101054359</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>module</extension>
-        <value>2.0.0-20261101.054359-1</value>
-        <updated>20261101054359</updated>
+        <value>2.0.0-20261101.060218-1</value>
+        <updated>20261101060218</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.0.0-20261101.054359-1</value>
-        <updated>20261101054359</updated>
+        <value>2.0.0-20261101.060218-1</value>
+        <updated>20261101060218</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>jar</extension>
-        <value>2.0.0-20261101.054359-1</value>
-        <updated>20261101054359</updated>
+        <extension>module</extension>
+        <value>2.0.0-20261101.060218-1</value>
+        <updated>20261101060218</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

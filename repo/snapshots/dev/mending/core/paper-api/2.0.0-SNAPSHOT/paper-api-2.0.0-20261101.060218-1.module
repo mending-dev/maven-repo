@@ -1,0 +1,109 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.mending.core",
+    "module": "paper-api",
+    "version": "2.0.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.6.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.papermc.paper",
+          "module": "paper-api",
+          "version": {
+            "requires": "26.3.build.+"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "paper-api-2.0.0-SNAPSHOT.jar",
+          "url": "paper-api-2.0.0-SNAPSHOT.jar",
+          "size": 72252,
+          "sha512": "6c9af526dc9ab52854fbbed1f6cd6451b02c67e03ca42f8a8b16fb1ae2773accf0662341c4e937397b4f8879884deeb7778e67ff6b61d1410e5b47d2f9a86fc5",
+          "sha256": "fa46388b1b218c71158712f9615839d6702af841dd7a642cb8aa81bfbc46b7eb",
+          "sha1": "6a72fba5cc2165e5eca1a9f3d76c1959be2495aa",
+          "md5": "f7e50526af57e0339d9a8c57eca3bd41"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "paper-api-2.0.0-SNAPSHOT.jar",
+          "url": "paper-api-2.0.0-SNAPSHOT.jar",
+          "size": 72252,
+          "sha512": "6c9af526dc9ab52854fbbed1f6cd6451b02c67e03ca42f8a8b16fb1ae2773accf0662341c4e937397b4f8879884deeb7778e67ff6b61d1410e5b47d2f9a86fc5",
+          "sha256": "fa46388b1b218c71158712f9615839d6702af841dd7a642cb8aa81bfbc46b7eb",
+          "sha1": "6a72fba5cc2165e5eca1a9f3d76c1959be2495aa",
+          "md5": "f7e50526af57e0339d9a8c57eca3bd41"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "paper-api-2.0.0-SNAPSHOT-sources.jar",
+          "url": "paper-api-2.0.0-SNAPSHOT-sources.jar",
+          "size": 39392,
+          "sha512": "9149fb23f31904e82c4cb5929c51bc5361f152a925ee3b7cd84301ae49a75ddfa2f3d5e961b2ecd95bcb49222d1abc22bbb59d690db0436dec25b000a59f579d",
+          "sha256": "413ad4045582bcb5e628155f050cfbb5df37638494ea6aa3d70907727b7bc2c5",
+          "sha1": "c85309ac4e7b62bb0fb0ec189ee2a1858a78d101",
+          "md5": "af96ab060fdb7144c22cfb1df141f47b"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "paper-api-2.0.0-SNAPSHOT-javadoc.jar",
+          "url": "paper-api-2.0.0-SNAPSHOT-javadoc.jar",
+          "size": 4276637,
+          "sha512": "80d3fa4e1b2c42892606286dc16f71b98038a8676e2f2336f2af765a8c7344076f1d766088d090debe2f21f26fa2f8fb004d41a1162ffb5d67f51c3542cd250b",
+          "sha256": "a80960ddbe0bba4319ee1694c0fb5c57870d02d68b1a76a990fc8d1063db812d",
+          "sha1": "0289d558595bd778185276da39a1c0857dfcb0df",
+          "md5": "3b1edda894a059a79b3330be4a414690"
+        }
+      ]
+    }
+  ]
+}

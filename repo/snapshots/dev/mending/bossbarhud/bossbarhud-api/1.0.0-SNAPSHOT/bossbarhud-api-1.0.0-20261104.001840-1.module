@@ -1,0 +1,109 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.mending.bossbarhud",
+    "module": "bossbarhud-api",
+    "version": "1.0.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.6.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.papermc.paper",
+          "module": "paper-api",
+          "version": {
+            "requires": "26.1.2.build.+"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "bossbarhud-api-1.0.0-SNAPSHOT.jar",
+          "url": "bossbarhud-api-1.0.0-SNAPSHOT.jar",
+          "size": 4134,
+          "sha512": "6e5784b8eb3ede2dd263116a53862cac41d630b258b31ef898c6e826ecb937cee98737c238a9d85db8ae476534bfe97528db0ab06ab050c1acdc0b61d1232863",
+          "sha256": "227d396a7ac308f60b83726178bea98cfcbadd4c4cd30c05eb3b59cf46f61b3d",
+          "sha1": "7b6d0bb5c7bc09452cd53678c2baa33f91f495d8",
+          "md5": "9d8f7858e5b590a02439858e5ee32483"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "bossbarhud-api-1.0.0-SNAPSHOT.jar",
+          "url": "bossbarhud-api-1.0.0-SNAPSHOT.jar",
+          "size": 4134,
+          "sha512": "6e5784b8eb3ede2dd263116a53862cac41d630b258b31ef898c6e826ecb937cee98737c238a9d85db8ae476534bfe97528db0ab06ab050c1acdc0b61d1232863",
+          "sha256": "227d396a7ac308f60b83726178bea98cfcbadd4c4cd30c05eb3b59cf46f61b3d",
+          "sha1": "7b6d0bb5c7bc09452cd53678c2baa33f91f495d8",
+          "md5": "9d8f7858e5b590a02439858e5ee32483"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "bossbarhud-api-1.0.0-SNAPSHOT-sources.jar",
+          "url": "bossbarhud-api-1.0.0-SNAPSHOT-sources.jar",
+          "size": 4407,
+          "sha512": "12e9e34cd2e49f9a66c2b2201202ec8aa97b3213b9103f4c20f2f06b592fed396aee5f9409bd639c2f44104923c769a89c05e6aa225cc44a000128a4da208d3a",
+          "sha256": "ef79714c916021ef577f0718fd540128b4e3bbaf8edf37c76e3cb0c9403294c7",
+          "sha1": "3422848562bf81a01c6aca89d8cdc0589eb41344",
+          "md5": "20c316443c7d9cdc65601d8989fdd992"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "bossbarhud-api-1.0.0-SNAPSHOT-javadoc.jar",
+          "url": "bossbarhud-api-1.0.0-SNAPSHOT-javadoc.jar",
+          "size": 4159361,
+          "sha512": "a2a9f472975e1fec2ed9cba403e1c5011652ff03238133ae2745658541e7abbf15c178dbd544456d7d94751be23694de9e4dc486ee919d6e6a42fbc6364ab171",
+          "sha256": "0f6fbc4590903047c2aedb927255a3c2848291edec113ade21770b4dcc96efe8",
+          "sha1": "e187d389bdb2918373ccde04e50a29d7061dc3b7",
+          "md5": "cfea3c39f085d309e178483e0fd223ba"
+        }
+      ]
+    }
+  ]
+}

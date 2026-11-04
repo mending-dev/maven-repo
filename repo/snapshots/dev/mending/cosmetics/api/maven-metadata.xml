@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>dev.mending.cosmetics</groupId>
+  <artifactId>api</artifactId>
+  <versioning>
+    <latest>1.0.1-SNAPSHOT</latest>
+    <versions>
+      <version>1.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20261104150651</lastUpdated>
+  </versioning>
+</metadata>

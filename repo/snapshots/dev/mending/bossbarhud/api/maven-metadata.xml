@@ -3,10 +3,10 @@
   <groupId>dev.mending.bossbarhud</groupId>
   <artifactId>api</artifactId>
   <versioning>
-    <latest>1.0.0-SNAPSHOT</latest>
+    <latest>1.1.0-SNAPSHOT</latest>
     <versions>
-      <version>1.0.0-SNAPSHOT</version>
+      <version>1.1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20261104143149</lastUpdated>
+    <lastUpdated>20261109181107</lastUpdated>
   </versioning>
 </metadata>

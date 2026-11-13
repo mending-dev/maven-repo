@@ -3,10 +3,10 @@
   <groupId>dev.mending.cosmetics</groupId>
   <artifactId>api</artifactId>
   <versioning>
-    <latest>1.0.2-SNAPSHOT</latest>
+    <latest>1.0.3-SNAPSHOT</latest>
     <versions>
-      <version>1.0.2-SNAPSHOT</version>
+      <version>1.0.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20261111165447</lastUpdated>
+    <lastUpdated>20261113181830</lastUpdated>
   </versioning>
 </metadata>
